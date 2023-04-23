@@ -1,8 +1,5 @@
 # Zomato Clone (UI)
-<img align="right" width="500" alt="image" src="https://user-images.githubusercontent.com/106578262/206367213-822799c3-4529-4afe-9f29-bf699ac7f91c.png">
-
 This is clone of zomato website developed with React js 
-
 
 ## Built with
 This project is built with these technologies 
