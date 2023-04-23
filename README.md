@@ -14,7 +14,7 @@ This project is built with these technologies
 
 
 ## Deployement
-
+Live Link(Netlify): https://vocal-entremet-e2b725.netlify.app/
 
 # Getting Started 
 clone down this repositery. You will need to `node.js` and `git` installed globally on your machine.
